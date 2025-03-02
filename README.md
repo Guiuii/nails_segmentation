@@ -26,7 +26,7 @@ Segmentation of nails pictures dataset released by Victor Papenko
   matplotlib==3.7.1
   Pillow==9.5.0
   pyyaml==6.0.1
-  kagglehub==0.1.6
+  kagglehub==0.3.6
   ```
 
 ## Использование
