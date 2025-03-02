@@ -62,9 +62,19 @@ cd nails-segmentation
 ├── test.py
 ├── plot_metrics.py
 ├── plots
-
+│   ├── F1-score_per_epoch.png
+│   └── Loss_per_epoch.png
 ├── results
-
+│   ├── segmentation_pic_0.png
+│   ├── segmentation_pic_10.png
+│   ├── segmentation_pic_1.png
+│   ├── segmentation_pic_2.png
+│   ├── segmentation_pic_3.png
+│   ├── segmentation_pic_5.png
+│   ├── segmentation_pic_6.png
+│   ├── segmentation_pic_7.png
+│   ├── segmentation_pic_8.png
+│   └── segmentation_pic_9.png
 ├── Nails_notebook.ipynb
 ├── u-net-architecture.png
 └── example_of_pic.png
