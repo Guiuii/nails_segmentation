@@ -32,8 +32,8 @@ Segmentation of nails pictures dataset released by Victor Papenko
 ## Использование
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/Guiuii/nails-segmentation.git
-cd nails-segmentation
+git clone https://github.com/Guiuii/nails_segmentation.git
+cd nails_segmentation
 ```
 2. Установите зависимости:
 ```bash
@@ -80,39 +80,39 @@ cd nails-segmentation
 └── example_of_pic.png
 ```
 
-## Метркии
+## Метрики
 
-- Графиков зависимости Loss от количества эпох:
+### - Графики зависимости Loss от количества эпох:
   
 ![Loss_per_epoch](plots/Loss_per_epoch.png)
 
-- Графиков зависимости F1-score от количества эпох:
+### - Графики зависимости F1-score от количества эпох:
   
 ![F1_per_epoch](plots/F1-score_per_epoch.png)
 
 ## Результаты
 
-- Визуализация сегментации ногтей на тестовых изображениях:
+### - Визуализация сегментации ногтей на тестовых изображениях:
 
-![Segmentation_img](results/segmentation_pic_{idx}.png)
+![Segmentation_img](results/segmentation_pic_0.png)
 
-![Segmentation_img](results/segmentation_pic_{idx}.png)
+![Segmentation_img](results/segmentation_pic_1.png)
 
-![Segmentation_img](results/segmentation_pic_{idx}.png)
+![Segmentation_img](results/segmentation_pic_2.png)
 
-![Segmentation_img](results/segmentation_pic_{idx}.png)
+![Segmentation_img](results/segmentation_pic_3.png)
 
-![Segmentation_img](results/segmentation_pic_{idx}.png)
+![Segmentation_img](results/segmentation_pic_4.png)
 
-![Segmentation_img](results/segmentation_pic_{idx}.png)
+![Segmentation_img](results/segmentation_pic_5.png)
 
-![Segmentation_img](results/segmentation_pic_{idx}.png)
+![Segmentation_img](results/segmentation_pic_6.png)
 
-![Segmentation_img](results/segmentation_pic_{idx}.png)
+![Segmentation_img](results/segmentation_pic_7.png)
 
-![Segmentation_img](results/segmentation_pic_{idx}.png)
+![Segmentation_img](results/segmentation_pic_8.png)
 
-![Segmentation_img](results/segmentation_pic_{idx}.png)
+![Segmentation_img](results/segmentation_pic_9.png)
 
 
 
