@@ -1,0 +1,20 @@
+# Конфигурация данных
+data:
+  dataset_path: "vpapenko/nails-segmentation"  # Путь к датасету в Kaggle Hub
+  batch_size: 8                                # Размер батча
+  train_ratio: 0.8                             # Доля тренировочных данных
+  
+# Параметры обучения
+training:
+  num_epochs: 250                              # Количество эпох
+  
+# Конфигурации модели
+model:
+  lr: 0.0001                                   # Learning rate
+  
+# Настройки визуализации
+visualization:
+  results_dir: "results"
+  plots_dir: "plots"
+  color: "#7B68EE"
+  number: 10                                   # Количество картинок из тестовой выборки для визуализации (max=11)
