@@ -94,25 +94,25 @@ cd nails-segmentation
 
 - Визуализация сегментации ногтей на тестовых изображениях:
 
-![Segmentation_img](results/segmentation_pic_{idx}.png)
+![Segmentation_img](results/segmentation_pic_0.png)
 
-![Segmentation_img](results/segmentation_pic_{idx}.png)
+![Segmentation_img](results/segmentation_pic_1.png)
 
-![Segmentation_img](results/segmentation_pic_{idx}.png)
+![Segmentation_img](results/segmentation_pic_2.png)
 
-![Segmentation_img](results/segmentation_pic_{idx}.png)
+![Segmentation_img](results/segmentation_pic_3.png)
 
-![Segmentation_img](results/segmentation_pic_{idx}.png)
+![Segmentation_img](results/segmentation_pic_4.png)
 
-![Segmentation_img](results/segmentation_pic_{idx}.png)
+![Segmentation_img](results/segmentation_pic_5.png)
 
-![Segmentation_img](results/segmentation_pic_{idx}.png)
+![Segmentation_img](results/segmentation_pic_6.png)
 
-![Segmentation_img](results/segmentation_pic_{idx}.png)
+![Segmentation_img](results/segmentation_pic_7.png)
 
-![Segmentation_img](results/segmentation_pic_{idx}.png)
+![Segmentation_img](results/segmentation_pic_8.png)
 
-![Segmentation_img](results/segmentation_pic_{idx}.png)
+![Segmentation_img](results/segmentation_pic_9.png)
 
 
 
